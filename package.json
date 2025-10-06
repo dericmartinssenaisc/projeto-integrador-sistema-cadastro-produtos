@@ -1,0 +1,15 @@
+{
+  "name": "projeto-integrador-sistema-cadastro-produtos",
+  "version": "1.0.0",
+  "description": "Sistema de Cadastro de Produtos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@inquirer/prompts": "^7.8.6"
+  }
+}

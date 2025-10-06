@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nomeProduto": "PRODUTO TESTE 1",
+    "quantidadeProduto": 0,
+    "precoProduto": 0,
+    "dataCriacao": "10/6/2025, 10:31:09 PM",
+    "dataAtualizacao": "10/6/2025, 10:31:09 PM"
+  },
+  {
+    "id": 2,
+    "nomeProduto": "PRODUTO TESTE 2",
+    "quantidadeProduto": null,
+    "precoProduto": null,
+    "dataCriacao": "10/6/2025, 10:33:22 PM",
+    "dataAtualizacao": "10/6/2025, 10:33:22 PM"
+  },
+  {
+    "id": 3,
+    "nomeProduto": "TESTE",
+    "quantidadeProduto": 0,
+    "precoProduto": 0,
+    "dataCriacao": "10/6/2025, 10:34:45 PM",
+    "dataAtualizacao": "10/6/2025, 10:34:45 PM"
+  }
+]
